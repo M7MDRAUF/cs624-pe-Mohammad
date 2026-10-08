@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Mohammad Al Bataineh</Text>
+      <Text style={styles.text}>{"Mohammad Ra'uf Naser Al Batayneh"}</Text>
       <Text style={styles.text}>Master of Science in Computer Science</Text>
       <Text style={styles.text}>City University of Seattle</Text>
     </View>

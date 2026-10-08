@@ -11,7 +11,7 @@ React Native building blocks: one `View`, three `Text` components, and `StyleShe
 ## Input
 
 This app has no runtime user input. The "input" is static data supplied by the developer
-directly in `App.tsx`: the strings `"Mohammad Al Bataineh"`, `"Master of Science in Computer
+directly in `App.tsx`: the strings `"Mohammad Ra'uf Naser Al Batayneh"`, `"Master of Science in Computer
 Science"`, and `"City University of Seattle"`, along with the yellow background color defined
 in the `StyleSheet`.
 
